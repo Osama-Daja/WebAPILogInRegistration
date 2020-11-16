@@ -1,0 +1,16 @@
+E:\ASP.net\ASP.net Core\CodeAffection\WebAPILogInRegistration\WebAPILogInRegistration\bin\Debug\netcoreapp2.1\appsettings.Development.json
+E:\ASP.net\ASP.net Core\CodeAffection\WebAPILogInRegistration\WebAPILogInRegistration\bin\Debug\netcoreapp2.1\appsettings.json
+E:\ASP.net\ASP.net Core\CodeAffection\WebAPILogInRegistration\WebAPILogInRegistration\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+E:\ASP.net\ASP.net Core\CodeAffection\WebAPILogInRegistration\WebAPILogInRegistration\bin\Debug\netcoreapp2.1\WebAPILogInRegistration.deps.json
+E:\ASP.net\ASP.net Core\CodeAffection\WebAPILogInRegistration\WebAPILogInRegistration\bin\Debug\netcoreapp2.1\WebAPILogInRegistration.runtimeconfig.json
+E:\ASP.net\ASP.net Core\CodeAffection\WebAPILogInRegistration\WebAPILogInRegistration\bin\Debug\netcoreapp2.1\WebAPILogInRegistration.runtimeconfig.dev.json
+E:\ASP.net\ASP.net Core\CodeAffection\WebAPILogInRegistration\WebAPILogInRegistration\bin\Debug\netcoreapp2.1\WebAPILogInRegistration.dll
+E:\ASP.net\ASP.net Core\CodeAffection\WebAPILogInRegistration\WebAPILogInRegistration\bin\Debug\netcoreapp2.1\WebAPILogInRegistration.pdb
+E:\ASP.net\ASP.net Core\CodeAffection\WebAPILogInRegistration\WebAPILogInRegistration\obj\Debug\netcoreapp2.1\WebAPILogInRegistration.csprojAssemblyReference.cache
+E:\ASP.net\ASP.net Core\CodeAffection\WebAPILogInRegistration\WebAPILogInRegistration\obj\Debug\netcoreapp2.1\WebAPILogInRegistration.RazorAssemblyInfo.cache
+E:\ASP.net\ASP.net Core\CodeAffection\WebAPILogInRegistration\WebAPILogInRegistration\obj\Debug\netcoreapp2.1\WebAPILogInRegistration.RazorAssemblyInfo.cs
+E:\ASP.net\ASP.net Core\CodeAffection\WebAPILogInRegistration\WebAPILogInRegistration\obj\Debug\netcoreapp2.1\WebAPILogInRegistration.AssemblyInfoInputs.cache
+E:\ASP.net\ASP.net Core\CodeAffection\WebAPILogInRegistration\WebAPILogInRegistration\obj\Debug\netcoreapp2.1\WebAPILogInRegistration.AssemblyInfo.cs
+E:\ASP.net\ASP.net Core\CodeAffection\WebAPILogInRegistration\WebAPILogInRegistration\obj\Debug\netcoreapp2.1\WebAPILogInRegistration.RazorTargetAssemblyInfo.cache
+E:\ASP.net\ASP.net Core\CodeAffection\WebAPILogInRegistration\WebAPILogInRegistration\obj\Debug\netcoreapp2.1\WebAPILogInRegistration.dll
+E:\ASP.net\ASP.net Core\CodeAffection\WebAPILogInRegistration\WebAPILogInRegistration\obj\Debug\netcoreapp2.1\WebAPILogInRegistration.pdb
